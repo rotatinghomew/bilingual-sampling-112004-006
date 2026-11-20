@@ -1,8 +1,0 @@
-seq,claim,activity,partner,kind,min,amount
-1,c1,春季场,K1,requested,100,-
-2,c2,春季场,K2,requested,120,-
-3,c3,春季场,K3,requested,100,-
-4,c4,春季场,K4,requested,100,-
-5,c1,春季场,K1,accepted,100,130
-6,c2,春季场,K2,accepted,120,120
-7,c4,春季场,K4,accepted,100,100
