@@ -64,20 +64,6 @@
       "school": "S3"
     },
     {
-      "item": "秋-4",
-      "frame": "F",
-      "draw_at": 49,
-      "stratum": "es",
-      "school": "S4"
-    },
-    {
-      "item": "秋-6",
-      "frame": "F",
-      "draw_at": 49,
-      "stratum": "fr",
-      "school": "S0"
-    },
-    {
       "item": "秋-7",
       "frame": "P",
       "draw_at": 50,
@@ -114,6 +100,13 @@
     },
     {
       "item": "秋-13",
+      "frame": "F",
+      "draw_at": 49,
+      "stratum": "es",
+      "school": "S1"
+    },
+    {
+      "item": "秋-13",
       "frame": "P",
       "draw_at": 50,
       "stratum": "es",
@@ -132,6 +125,13 @@
       "draw_at": 50,
       "stratum": "zh",
       "school": "S2"
+    },
+    {
+      "item": "秋-21",
+      "frame": "F",
+      "draw_at": 49,
+      "stratum": "fr",
+      "school": "S3"
     },
     {
       "item": "秋-23",
@@ -204,20 +204,6 @@
       "school": "S3"
     },
     {
-      "item": "春-4",
-      "frame": "F",
-      "draw_at": 49,
-      "stratum": "es",
-      "school": "S4"
-    },
-    {
-      "item": "春-6",
-      "frame": "F",
-      "draw_at": 49,
-      "stratum": "fr",
-      "school": "S0"
-    },
-    {
       "item": "春-7",
       "frame": "P",
       "draw_at": 50,
@@ -254,6 +240,13 @@
     },
     {
       "item": "春-13",
+      "frame": "F",
+      "draw_at": 49,
+      "stratum": "es",
+      "school": "S1"
+    },
+    {
+      "item": "春-13",
       "frame": "P",
       "draw_at": 50,
       "stratum": "es",
@@ -272,6 +265,13 @@
       "draw_at": 50,
       "stratum": "zh",
       "school": "S2"
+    },
+    {
+      "item": "春-21",
+      "frame": "F",
+      "draw_at": 49,
+      "stratum": "fr",
+      "school": "S3"
     },
     {
       "item": "春-23",

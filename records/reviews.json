@@ -154,78 +154,6 @@
       "theme_version": "v1"
     },
     {
-      "id": "rev-秋-4-quick",
-      "item": "秋-4",
-      "kind": "quick",
-      "at": 62,
-      "reviewer": "l3",
-      "themes": [
-        "日常"
-      ],
-      "blind": false,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-秋-4-full_original",
-      "item": "秋-4",
-      "kind": "full_original",
-      "at": 63,
-      "reviewer": "l4",
-      "themes": [
-        "日常"
-      ],
-      "blind": true,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-秋-4-full_translation",
-      "item": "秋-4",
-      "kind": "full_translation",
-      "at": 64,
-      "reviewer": "l5",
-      "themes": [
-        "日常"
-      ],
-      "blind": true,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-秋-6-quick",
-      "item": "秋-6",
-      "kind": "quick",
-      "at": 64,
-      "reviewer": "l1",
-      "themes": [
-        "日常"
-      ],
-      "blind": false,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-秋-6-full_original",
-      "item": "秋-6",
-      "kind": "full_original",
-      "at": 65,
-      "reviewer": "l2",
-      "themes": [
-        "日常"
-      ],
-      "blind": true,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-秋-6-full_translation",
-      "item": "秋-6",
-      "kind": "full_translation",
-      "at": 66,
-      "reviewer": "l5",
-      "themes": [
-        "日常"
-      ],
-      "blind": true,
-      "theme_version": "v1"
-    },
-    {
       "id": "rev-秋-7-quick",
       "item": "秋-7",
       "kind": "quick",
@@ -407,6 +335,18 @@
         "日常"
       ],
       "blind": true,
+      "theme_version": "v1"
+    },
+    {
+      "id": "rev-秋-21-quick",
+      "item": "秋-21",
+      "kind": "quick",
+      "at": 61,
+      "reviewer": "l1",
+      "themes": [
+        "戏剧"
+      ],
+      "blind": false,
       "theme_version": "v1"
     },
     {
@@ -666,78 +606,6 @@
       "theme_version": "v1"
     },
     {
-      "id": "rev-春-4-quick",
-      "item": "春-4",
-      "kind": "quick",
-      "at": 62,
-      "reviewer": "l3",
-      "themes": [
-        "日常"
-      ],
-      "blind": false,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-春-4-full_original",
-      "item": "春-4",
-      "kind": "full_original",
-      "at": 63,
-      "reviewer": "l4",
-      "themes": [
-        "日常"
-      ],
-      "blind": true,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-春-4-full_translation",
-      "item": "春-4",
-      "kind": "full_translation",
-      "at": 64,
-      "reviewer": "l5",
-      "themes": [
-        "日常"
-      ],
-      "blind": true,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-春-6-quick",
-      "item": "春-6",
-      "kind": "quick",
-      "at": 64,
-      "reviewer": "l1",
-      "themes": [
-        "日常"
-      ],
-      "blind": false,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-春-6-full_original",
-      "item": "春-6",
-      "kind": "full_original",
-      "at": 65,
-      "reviewer": "l2",
-      "themes": [
-        "日常"
-      ],
-      "blind": true,
-      "theme_version": "v1"
-    },
-    {
-      "id": "rev-春-6-full_translation",
-      "item": "春-6",
-      "kind": "full_translation",
-      "at": 66,
-      "reviewer": "l5",
-      "themes": [
-        "日常"
-      ],
-      "blind": true,
-      "theme_version": "v1"
-    },
-    {
       "id": "rev-春-7-quick",
       "item": "春-7",
       "kind": "quick",
@@ -919,6 +787,18 @@
         "日常"
       ],
       "blind": true,
+      "theme_version": "v1"
+    },
+    {
+      "id": "rev-春-21-quick",
+      "item": "春-21",
+      "kind": "quick",
+      "at": 61,
+      "reviewer": "l1",
+      "themes": [
+        "戏剧"
+      ],
+      "blind": false,
       "theme_version": "v1"
     },
     {
