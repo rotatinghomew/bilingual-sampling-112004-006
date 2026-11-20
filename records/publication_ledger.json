@@ -3,10 +3,10 @@
   "already_issued": [
     {"edition": "P66", "at": 66, "season": "秋", "theme": "戏剧", "theme_version": "v1", "universe": "秋-刊发基底", "schools": ["S0", "S1", "S2", "S3", "S4", "S5"], "count": 9},
     {"edition": "P66", "at": 66, "season": "秋", "theme": "戏剧", "theme_version": "v1", "universe": "秋-刊发基底", "schools": ["S0", "S1", "S2"], "count": 5},
-    {"edition": "P66", "at": 66, "season": "秋", "theme": "戏剧", "theme_version": "v1", "universe": "秋-刊发基底", "schools": ["S3", "S4"], "count": 3}
+    {"edition": "P66", "at": 66, "season": "秋", "theme": "戏剧", "theme_version": "v1", "universe": "秋-刊发基底", "schools": ["S3", "S4", "S5"], "count": 4}
   ],
   "requests": [
-    {"id": "s82a", "at": 81, "season": "秋", "theme": "戏剧", "theme_version": "v2", "universe": "秋-刊发基底", "schools": ["S2", "S5"], "wants": ["estimate", "contributor_count"]},
+    {"id": "s82a", "at": 81, "season": "秋", "theme": "戏剧", "theme_version": "v2", "universe": "秋-刊发基底", "schools": ["S0", "S1", "S2", "S5"], "wants": ["estimate", "contributor_count"]},
     {"id": "s82b", "at": 82, "season": "秋", "theme": "地域记忆", "theme_version": "v2", "universe": "秋-刊发基底", "schools": ["S1", "S2", "S3"], "wants": ["estimate", "proposal"]},
     {"id": "s99a", "at": 98, "season": "秋", "theme": "戏剧", "theme_version": "v2", "universe": "秋-复议基底", "schools": ["S0", "S1", "S2", "S3", "S4", "S5"], "wants": ["estimate", "contributor_count"]}
   ],
