@@ -1,0 +1,22 @@
+{
+  "agreement": {"minimum_identifiable_school_works": 3, "protected_measure": "unique_contributing_originals", "compare_theme_versions": ["v1", "v2"], "milestones": [66, 82, 99]},
+  "already_issued": [
+    {"edition": "P66", "at": 66, "season": "秋", "theme": "戏剧", "theme_version": "v1", "universe": "秋-刊发基底", "schools": ["S0", "S1", "S2", "S3", "S4", "S5"], "count": 9},
+    {"edition": "P66", "at": 66, "season": "秋", "theme": "戏剧", "theme_version": "v1", "universe": "秋-刊发基底", "schools": ["S0", "S1", "S2"], "count": 5},
+    {"edition": "P66", "at": 66, "season": "秋", "theme": "戏剧", "theme_version": "v1", "universe": "秋-刊发基底", "schools": ["S3", "S4"], "count": 3}
+  ],
+  "requests": [
+    {"id": "s82a", "at": 81, "season": "秋", "theme": "戏剧", "theme_version": "v2", "universe": "秋-刊发基底", "schools": ["S2", "S5"], "wants": ["estimate", "contributor_count"]},
+    {"id": "s82b", "at": 82, "season": "秋", "theme": "地域记忆", "theme_version": "v2", "universe": "秋-刊发基底", "schools": ["S1", "S2", "S3"], "wants": ["estimate", "proposal"]},
+    {"id": "s99a", "at": 98, "season": "秋", "theme": "戏剧", "theme_version": "v2", "universe": "秋-复议基底", "schools": ["S0", "S1", "S2", "S3", "S4", "S5"], "wants": ["estimate", "contributor_count"]}
+  ],
+  "universes": [
+    {"id": "秋-刊发基底", "season": "秋", "known_through": 66, "rule": "首次出刊时已登记且归属明确的作品"},
+    {"id": "秋-复议基底", "season": "秋", "known_through": 82, "rule": "复议时已登记且归属明确的作品"}
+  ],
+  "review_slots": [
+    {"id": "w7", "school": "S2", "available_at": 73, "return_by": 80, "language": "fr", "reviewer": "l5", "hours": 2},
+    {"id": "w8", "school": "S4", "available_at": 74, "return_by": 86, "language": "fr", "reviewer": "u2", "hours": 2},
+    {"id": "w9", "school": "S4", "available_at": 75, "return_by": 84, "language": "es", "reviewer": "l3", "hours": 2}
+  ]
+}
